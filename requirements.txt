@@ -1,0 +1,7 @@
+numpy>=2.4.4
+pandas>=3.0
+scikit-learn>=1.8
+lightgbm>=4.7
+matplotlib>=3.10
+joblib>=1.5
+reportlab>=4.0
